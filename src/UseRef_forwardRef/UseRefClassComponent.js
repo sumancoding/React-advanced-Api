@@ -1,3 +1,5 @@
+//useRef manipulate DOM so use it less 
+
 import React, { Component, createRef } from 'react'
 
 export default class App extends Component {

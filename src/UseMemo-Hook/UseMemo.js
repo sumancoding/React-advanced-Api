@@ -1,3 +1,5 @@
+//useMemo enhances performance
+
 import React, {useState, useMemo} from 'react'
 
 const App = () => {
